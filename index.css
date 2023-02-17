@@ -1,0 +1,56 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("table.png");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+}
+
+h1 {
+    color: goldenrod;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 3rem;
+}
+
+#message-el {
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+button {
+  color: #016f32;
+  width: 180px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+font-size: 1.2rem;
+}
+.blackjack {
+  color: #018a3f;
+  background: goldenrod;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 2px 18vw 2px 18vw;
+}
+#cards-el{
+  font-size: 1.2rem;
+}
+#sum-el{
+  font-size: 1.2rem;
+}
+#player-el{
+  font-size: 1.2rem;
+}
